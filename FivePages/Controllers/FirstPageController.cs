@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FivePages.Controllers
 {
-    public class FirstController : Controller
+    public class FirstPageController : Controller
     {
         public IActionResult Index()
         {
